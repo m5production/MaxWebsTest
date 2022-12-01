@@ -218,4 +218,9 @@ html {
   .heading-underline::before {
     display: none;
   }
+}
+@media only screen and (max-width: 500px) {
+  .heading {
+    font-size: 2rem;
+  }
 }/*# sourceMappingURL=style.css.map */
